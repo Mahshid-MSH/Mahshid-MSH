@@ -33,7 +33,8 @@ A monument to forgotten commits, merge conflicts, and abandoned dreams.
 Distributed suffering. Because nothing screams "fun weekend" quite like debugging Java stack traces across multiple nodes until you lose the will to live.
 
 ---
-![TryHackMe Stats](https://raw.githubusercontent.com/Always-in-the-Cage/Always-in-the-Cage/main/thm_propic.png)
+
+[![TryHackMe stats](https://tryhackme-badge.darklord.workers.dev/Always.in.the.Cage?view=default)](https://tryhackme.com/p/Always.in.the.Cage)
 
 
 <div align="center">
