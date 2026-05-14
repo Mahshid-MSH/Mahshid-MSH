@@ -3,8 +3,15 @@
 # 🕳️ Always in the Cage
 
  *"There is no escape. Only `Ctrl+C`."*
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-AlwaysInTheCage-B02A2A?style=flat&logo=tryhackme)](https://tryhackme.com/p/AlwaysInTheCage)
+ 
+<p align="center">
+  <a href="https://tryhackme.com/p/AlwaysInTheCage">
+    <img src="https://img.shields.io/badge/TryHackMe-AlwaysInTheCage-B02A2A?style=flat&logo=tryhackme" alt="TryHackMe">
+  </a>
+  <a href="https://app.hackthebox.com/users/YOUR_ID">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-AlwaysInTheCage-9fe04e?style=flat&logo=hackthebox&logoColor=white" alt="Hack The Box">
+  </a>
+</p>
 
 </div>
 
