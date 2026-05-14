@@ -1,6 +1,12 @@
+<div align="center">
+
 # 🕳️ Always in the Cage
 
 > *"There is no escape. Only `Ctrl+C`."*
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-AlwaysInTheCage-B02A2A?style=flat&logo=tryhackme)](https://tryhackme.com/p/AlwaysInTheCage)
+
+</div>
 
 ---
 
@@ -34,18 +40,31 @@ Distributed suffering. Because nothing screams "fun weekend" quite like debuggin
 
 ---
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-AlwaysInTheCage-B02A2A?style=flat&logo=tryhackme)](https://tryhackme.com/p/AlwaysInTheCage)
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Always-in-the-Cage/Always-in-the-Cage/main/prison-cage.svg" alt="Dependency Hell SVG" width="640">
 </div>
 
 ---
 
+## 🛠️ Actual Skills
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
 ## 📉 Skills (According to the Voices in My Head)
+
+<div align="center">
 
 ![status](https://img.shields.io/badge/Status-Barely_Compiling-critical?style=for-the-badge)  
 ![skills](https://img.shields.io/badge/Skills-StackOverflow_Plagiarism-brightgreen?style=for-the-badge)  
 ![fuel](https://img.shields.io/badge/Fuel-Spite_%26_Caffeine-lightgrey?style=for-the-badge)  
 ![debugging](https://img.shields.io/badge/Debugging-Staring_Into_The_Abyss-blue?style=for-the-badge)
+
+</div>
