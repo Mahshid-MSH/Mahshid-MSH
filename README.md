@@ -2,7 +2,7 @@
 
 # 🕳️ Always in the Cage
 
-> *"There is no escape. Only `Ctrl+C`."*
+ *"There is no escape. Only `Ctrl+C`."*
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-AlwaysInTheCage-B02A2A?style=flat&logo=tryhackme)](https://tryhackme.com/p/AlwaysInTheCage)
 
