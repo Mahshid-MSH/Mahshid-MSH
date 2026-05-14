@@ -12,4 +12,4 @@ jobs:
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
           username: "AlwaysInTheCage"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
