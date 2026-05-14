@@ -34,7 +34,7 @@ Distributed suffering. Because nothing screams "fun weekend" quite like debuggin
 
 ---
 
-![tryhackme stats](https://raw.githubusercontent.com/Always-in-the-Cage/Always-in-the-Cage/main/assets/thm_propic.png)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-AlwaysInTheCage-B02A2A?style=flat&logo=tryhackme)](https://tryhackme.com/p/AlwaysInTheCage)
 
 
 <div align="center">
