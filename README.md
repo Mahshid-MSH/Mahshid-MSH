@@ -8,10 +8,6 @@
   <a href="https://tryhackme.com/p/AlwaysInTheCage">
     <img src="https://img.shields.io/badge/TryHackMe-AlwaysInTheCage-B02A2A?style=flat&logo=tryhackme" alt="TryHackMe">
   </a>
-
-  <a href="https://app.hackthebox.com/users/019e263c-7a16-706d-b0c1-f7cb6c58fd3e">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-AlwaysInTheCage-9fe04e?style=flat&logo=hackthebox&logoColor=white" alt="Hack The Box">
-  </a>
 </p>
 
 
