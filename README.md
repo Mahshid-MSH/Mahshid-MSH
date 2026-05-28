@@ -40,9 +40,6 @@ Active contributor to open-source defense validation and detection engineering t
 *Adversarial Examples & Model Evasion Techniques*  
 Research repository for generating adversarial inputs and exploring model extraction methods.
 
-### 🕰️ [Momentz](https://github.com/Mahrokh-M/Momentz)  
-Version control experiments.
-
 ### 🐘 [Hadoop-MapReduce-Project](https://github.com/Mahrokh-M/Hadoop-MapReduce-Project)  
 Distributed systems practice.
 
