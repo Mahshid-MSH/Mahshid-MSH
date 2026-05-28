@@ -1,7 +1,5 @@
 <div align="center">
 
-# Always in the Cage
-
 *"We swear by the blood of those we lost."*
 
 <p align="center">
