@@ -43,12 +43,6 @@ Distributed systems practice.
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Always-in-the-Cage/Always-in-the-Cage/main/prison-cage.svg" alt="Dependency Hell SVG" width="640">
-</div>
-
----
-
 ## 🛠️ Technical Profile
 
 <div align="center">
