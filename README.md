@@ -1,44 +1,79 @@
-# ALWAYS IN THE CAGE
+<div align="center">
 
-> "We swear by the blood of those we lost."
+# Always in the Cage
 
-TryHackMe: [https://tryhackme.com/p/AlwaysInTheCage](https://tryhackme.com/p/AlwaysInTheCage)
+*"We swear by the blood of those we lost."*
 
----
+<p align="center">
+  <a href="https://tryhackme.com/p/AlwaysInTheCage">
+    <img src="https://img.shields.io/badge/TryHackMe-AlwaysInTheCage-B02A2A?style=flat&logo=tryhackme" alt="TryHackMe">
+  </a>
+</p>
 
-## CURRENT STATUS
-
-I do not claim professional mastery; I am an active learner dedicated to low-level experimentation and the documentation of technical processes.
-
-I track my deep dives and technical labs in my public knowledge base: [digital-notes](https://always-in-the-cage.github.io/digital-notes)
-
----
-
-## CORE CHANNELS
-
-- **MALWARE ANALYSIS** – Researching operating system internals and binary structures to understand execution flow, memory manipulation, and process injection at the OS level.
-
-- **OFFENSIVE MACHINE LEARNING** – Exploring machine learning architectures specifically for security applications, including model weaponization, evasion tactics, and adversarial vulnerabilities.
-
-- **CTF & REVERSING** – Solving structured challenges to refine exploitation skills and reverse engineering methodologies.
+</div>
 
 ---
 
-## TECHNICAL INDEX
+## 🎯 Focus
 
-- **CipherShield v2.0** – Multithreaded C & OpenSSL Encryption Toolkit. Practical study of parallel processing and system memory management via AES-256 implementation.  
-  [Repository](https://github.com/Always-in-the-Cage/ciphershield)
-
-- **TerrorRAT** – Python C2 & Remote Access Framework. Educational simulation platform built to analyze network protocol evasion and remote execution mechanics  
-  [Repository](https://github.com/Always-in-the-Cage/TerrorRAT)
-
-- **Atomic Red Team** – MITRE ATT&CK Test Library. Active contributor to open-source defense validation and detection engineering tests.  
-  [Repository](https://github.com/redcanaryco/atomic-red-team)
+- **Malware Analysis** – Currently developing proficiency in static and dynamic analysis techniques, focusing on execution flow and OS internals. [digital-notes](https://always-in-the-cage.github.io/digital-notes) serves as the ongoing research log.
+- **Offensive Machine Learning** – Exploring model weaponization and adversarial evasion. The goal is to understand ML vulnerabilities from an attacker's perspective, not for data science.
+- **CTF & Reversing** – Solving structured challenges to refine exploitation skills and reverse engineering methodologies.
 
 ---
 
-## TECH STACK
+## 🗄️ Projects
 
-- **Languages:** Python, C, C++, Bash
-- **Environments:** Linux, Docker, Git
-- **Methodologies:** Reverse Engineering, Adversary Emulation, Machine Learning 
+### 🛡️ [CipherShield v2.0](https://github.com/Always-in-the-Cage/ciphershield)
+*Multithreaded C & OpenSSL Encryption Toolkit*  
+A practical study of parallel processing and memory management through AES-256 implementation.
+
+### 🐀 [TerrorRAT](https://github.com/Always-in-the-Cage/TerrorRAT)
+*Encrypted Python C2 Server & Remote Access Tool*  
+Educational simulation platform built to analyze network protocol evasion and remote execution mechanics.
+
+### ☢️ [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) (Contributor)
+*MITRE ATT&CK Test Library*  
+Active contributor to open-source defense validation and detection engineering tests.
+
+### 🤖 Offensive ML Lab (In Development)
+*Adversarial Examples & Model Evasion Techniques*  
+Research repository for generating adversarial inputs and exploring model extraction methods.
+
+### 🕰️ [Momentz](https://github.com/Mahrokh-M/Momentz)  
+Version control experiments.
+
+### 🐘 [Hadoop-MapReduce-Project](https://github.com/Mahrokh-M/Hadoop-MapReduce-Project)  
+Distributed systems practice.
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Always-in-the-Cage/Always-in-the-Cage/main/prison-cage.svg" alt="Dependency Hell SVG" width="640">
+</div>
+
+---
+
+## 🛠️ Technical Profile
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Active_Learning-critical?style=for-the-badge)
+![Methodology](https://img.shields.io/badge/Methodology-Adversary_Emulation-blue?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Documentation-Public_Notes-lightgrey?style=for-the-badge)
+
+</div>
+
+---
+
+> *Digital notes repository: [always-in-the-cage.github.io/digital-notes](https://always-in-the-cage.github.io/digital-notes)*
