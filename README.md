@@ -14,7 +14,7 @@
 
 ## 🎯 Focus
 
-- **Malware Analysis** – Currently developing proficiency in static and dynamic analysis techniques, focusing on execution flow and OS internals. [digital-notes](https://always-in-the-cage.github.io/digital-notes) serves as the ongoing research log.
+- **Malware Analysis** – Currently developing proficiency in static and dynamic analysis techniques, focusing on execution flow and OS internals. [digital-notes](https://Mahshid-MSH.github.io/digital-notes) serves as the ongoing research log.
 - **Offensive Machine Learning** – Exploring model weaponization and adversarial evasion. The goal is to understand ML vulnerabilities from an attacker's perspective, not for data science.
 - **CTF & Reversing** – Solving structured challenges to refine exploitation skills and reverse engineering methodologies.
 
@@ -22,11 +22,11 @@
 
 ## 🗄️ Projects
 
-### 🛡️ [CipherShield v2.0](https://github.com/Always-in-the-Cage/ciphershield)
+### 🛡️ [CipherShield v2.0](https://github.com/Mahshid-MSH/ciphershield)
 *Multithreaded C & OpenSSL Encryption Toolkit*  
 A practical study of parallel processing and memory management through AES-256 implementation.
 
-### 🐀 [TerrorRAT](https://github.com/Always-in-the-Cage/TerrorRAT)
+### 🐀 [TerrorRAT](https://github.com/Mahshid-MSH/TerrorRAT)
 *Encrypted Python C2 Server & Remote Access Tool*  
 Educational simulation platform built to analyze network protocol evasion and remote execution mechanics.
 
@@ -65,4 +65,4 @@ Distributed systems practice.
 
 ---
 
-> *Digital notes repository: [always-in-the-cage.github.io/digital-notes](https://always-in-the-cage.github.io/digital-notes)*
+> *Digital notes repository: [Mahshid-MSH.github.io/digital-notes](https://Mahshid-MSH.github.io/digital-notes)*
