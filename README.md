@@ -65,4 +65,4 @@ Distributed systems practice.
 
 ---
 
-> *Digital notes repository: [Mahshid-MSH.github.io/digital-notes](https://Mahshid-MSH.github.io)*
+> *Digital notes repository: [Mahshid-MSH.github.io](https://Mahshid-MSH.github.io)*
