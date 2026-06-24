@@ -14,7 +14,7 @@
 
 ## 🎯 Focus
 
-- **Malware Analysis** – Currently developing proficiency in static and dynamic analysis techniques, focusing on execution flow and OS internals. [digital-notes](https://Mahshid-MSH.github.io/digital-notes) serves as the ongoing research log.
+- **Malware Analysis** – Currently developing proficiency in static and dynamic analysis techniques, focusing on execution flow and OS internals. [digital-notes](https://Mahshid-MSH.github.io) serves as the ongoing research log.
 - **Offensive Machine Learning** – Exploring model weaponization and adversarial evasion. The goal is to understand ML vulnerabilities from an attacker's perspective, not for data science.
 - **CTF & Reversing** – Solving structured challenges to refine exploitation skills and reverse engineering methodologies.
 
