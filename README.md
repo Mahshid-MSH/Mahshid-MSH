@@ -31,10 +31,6 @@ Research project exploring automated reconstruction of readable and compilable C
 *Multithreaded C & OpenSSL Encryption Toolkit*  
 A practical study of parallel processing and memory management through AES-256 implementation.
 
-### 🐀 [TerrorRAT](https://github.com/Mahshid-MSH/TerrorRAT)
-*Encrypted Python C2 Server & Remote Access Tool*  
-Educational simulation platform built to analyze network protocol evasion and remote execution mechanics.
-
 ### ☢️ [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) (Contributor)
 *MITRE ATT&CK Test Library*  
 Active contributor to open-source defense validation and detection engineering tests.
