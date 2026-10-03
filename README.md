@@ -16,6 +16,7 @@
 - **Malware Analysis** – Developing proficiency in static and dynamic analysis, with an emphasis on execution flow, Windows internals, and reverse engineering.
 - **Offensive Machine Learning** – Exploring adversarial examples, model evasion, and security implications of ML systems from an attacker's perspective. 
 - **CTF & Reversing** – Solving structured challenges to strengthen exploitation, binary analysis, and reverse-engineering skills.
+- **Computer Networks & Connected Systems** – Building a stronger understanding of network protocols, software-defined networking, network architecture, and the security of connected systems, with a growing interest in IoT and resource-constrained environments.
 
 ## 📚 Technical Writeups & Research Notes
 My digital notes document hands-on experiments, CTF writeups, reverse-engineering exercises, malware-analysis workflows, and cybersecurity research.
@@ -35,8 +36,10 @@ A practical study of parallel processing and memory management through AES-256 i
 *MITRE ATT&CK Test Library*  
 Active contributor to open-source defense validation and detection engineering tests.
 
-### 🐘 [Hadoop-MapReduce-Project](https://github.com/Mahrokh-M/Hadoop-MapReduce-Project)  
-Distributed systems practice.
+### 🌐 Simulation and Analysis of Topologies Using SDN and Mininet
+
+Software-Defined Networking & Network Topology Analysis
+A networking project focused on simulating and analyzing network topologies using Software-Defined Networking (SDN) and Mininet.
 
 ---
 
