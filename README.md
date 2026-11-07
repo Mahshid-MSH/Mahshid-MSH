@@ -32,9 +32,18 @@ Research project exploring automated reconstruction of readable and compilable C
 *Multithreaded C & OpenSSL Encryption Toolkit*  
 A practical study of parallel processing and memory management through AES-256 implementation.
 
-### ☢️ [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) (Contributor)
-*MITRE ATT&CK Test Library*  
-Active contributor to open-source defense validation and detection engineering tests.
+
+### ☢️ [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) · Open-Source Contributor
+
+*MITRE ATT&CK-Mapped Adversary Emulation Test Library*
+
+Contributing to an established open-source project focused on adversary emulation and security control validation.
+
+- **Contributor Ranking:** Ranked **#5** in GitHub contributor activity across the 1-month, 3-month, and 6-month periods (November 2026).
+- **Contributions:** Developing and extending Windows atomic tests mapped to MITRE ATT&CK techniques.
+
+[Contributor Statistics](https://github.com/redcanaryco/atomic-red-team/graphs/contributors?from=02%2F05%2F2026) · [My Pull Requests](https://github.com/redcanaryco/atomic-red-team/pulls?q=is%3Apr+author%3AMahshid-MSH)
+
 
 ### 🌐 [Simulation and Analysis of Topologies Using SDN and Mininet](https://github.com/Mahshid-MSH/simulation-and-analysis-of-topologies-using-SDN-and-Mininet)
 
